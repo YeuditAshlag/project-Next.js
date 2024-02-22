@@ -1,13 +1,4 @@
-# Next.js Tutorial
 
-## [Screenshots](https://github.com/LiorRabinovich/nextjs-tutorial/tree/main/screenshots)
-![screenshots](https://raw.githubusercontent.com/LiorRabinovich/nextjs-tutorial/main/screenshots/screenshots.gif)
-
-## Try It
-[Demo Live](https://nextjs-tutorial-liorrabinovich.vercel.app)
-
-## Learn It (FREE!)
-[YouTube](https://nextjs-tutorial-liorrabinovich.vercel.app)
 
 ## Scripts 
 ### `npm install`
