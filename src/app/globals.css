@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply block font-bold text-xl;
+}
+
+.post-form__block {
+  @apply mb-4;
+}
+
+.post-form__label {
+  @apply font-medium text-gray-900 block mb-2;
+}
+
+.post-form__input {
+  @apply text-sm w-full rounded-sm p-2 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 focus:ring-indigo-600;
+}
+
+.btn {
+  @apply bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded;
+}
+
+.btn--red {
+  @apply bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded;
+}
